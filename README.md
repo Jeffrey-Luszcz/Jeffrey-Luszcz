@@ -2,8 +2,7 @@
 
 # Jeff Luszcz (He/Him)
 
-I'm a PM in GitHub's open source program office (OSPO) https://github.com/github/ospo
-
+I'm a PM in GitHub's open source program office (OSPO) 
 I have a focus on Open Source License Compliance though love talking about all aspects of the software supply chain.
 
 ## You can reach me through:
