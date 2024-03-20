@@ -2,17 +2,9 @@
 
 # Jeff Luszcz (He/Him)
 
-This is my work account
+I'm a PM in GitHub's open source program office (OSPO) https://github.com/github/ospo
 
-I post thoughts on open source at https://zebracatzebra.com 
-
-
-I'm available to speak on open source compliance and security topics.
-
-
-I spend my programming time mostly on open source licensing and security tools, arduino, art and amateur radio/sdr these days.
-
-
+I'm have a focus on Open Source License Compliance.
 
 ## You can reach me through:
 
@@ -30,24 +22,8 @@ Mastodon: https://mastodon.social/@jeffluszcz
  &nbsp;
   
 
-🔭 I’m currently working on ...
-  
-  https://github.com/jeff-luszcz/RingFontDisplay A special circle based font (Dendro) and library to show text on NeoPixel rings
-  
-  https://github.com/jeff-luszcz/PurpleTheopolis A low attention ambient display to show current Air Quallity
-  
-  https://github.com/jeff-luszcz/AISTropoAlert   Utility to send a Mastodon alert when far away ships are seen using AIS ship reports
-  
-  https://github.com/jeff-luszcz/MagLoopTuner    A utility to greatly speed up manual tuning of Mag Loop antennas using hamlib and text to speach
-  
-## ⚡ I'll be speaking at the following conferences...
 
-
-I'm available to speak on open source compliance and security topics, drop me a line if interested!
-
-
-
-### Recent Conference & Webinar Talks
+### Recent Conference & Webinar Talks (prior to GitHub)
 
 
 "Best Practices and Pitfalls for Using Open Source Components in Fintech" w/ Snyk
