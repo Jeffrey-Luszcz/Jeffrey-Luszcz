@@ -22,8 +22,14 @@ Mastodon: https://mastodon.social/@jeffluszcz
   
 
 
-### Recent Conference & Webinar Talks (prior to GitHub)
+### Recent Conference & Webinar Talks 
 
+"Open Source Licensing, SBOMs and Security for Maintainers [GitHub]" 
+
+https://www.youtube.com/watch?v=8hbkfKAl4hk
+
+ &nbsp;
+ &nbsp;
 
 "Best Practices and Pitfalls for Using Open Source Components in Fintech" w/ Snyk
 
